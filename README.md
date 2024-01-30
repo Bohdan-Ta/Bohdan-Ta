@@ -11,6 +11,7 @@ Here's the stack of technologies I work with.
 ![Static Badge](https://img.shields.io/badge/NodeJs-green?link=https%3A%2F%2Fnodejs.org%2Fen)
 ![Static Badge](https://img.shields.io/badge/github-green?style=social&logo=github&link=https%3A%2F%2Fnodejs.org%2Fen)
 ![Static Badge](https://img.shields.io/badge/githlab-green?style=social&logo=gitlab&link=https%3A%2F%2Fnodejs.org%2Fen)
+<br></br>
 ![Static Badge](https://img.shields.io/badge/gitea-green?style=social&logo=gitea)
 
 
